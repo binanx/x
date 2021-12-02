@@ -1,5 +1,5 @@
 # BinanX
 
-> The Group
+> The Group:
 
 
